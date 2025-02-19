@@ -21,12 +21,17 @@
 - 🔹 **AI & Web3 DevOps:** Merging AI workflows into cloud-native apps
   
  
-- 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/johnstx0110/)  
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/Johnstx)  
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:inyiri.io@gmail.com)
-  ⭐ **Open for collaborations and projects on AI and Web3**
+ 📫 How to reach me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/johnstx0110/)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github)](https://github.com/Johnstx)
+  
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:inyiri.io@gmail.com)
+
+
+⭐ **Open for collaborations and projects on AI and Web3**
   
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=staxx&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=staxx&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnstx&show_icons=true&theme=grey)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnstx&layout=compact&theme=grey)
