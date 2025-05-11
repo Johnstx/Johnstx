@@ -28,6 +28,9 @@
   
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:inyiri.io@gmail.com)
 
+- [![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium)](https://medium.com/@inyiri.io)
+
+
 
 ⭐ **Open for collaborations and projects on AI and Web3**
   
