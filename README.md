@@ -1,6 +1,6 @@
 ##### 👋 Hi there, I'm John Inyiri (Johnstx)👋
 
-🚀 **DevOps Engineer | Cloud | Web3 | AI**  
+🚀 **DevOps Engineer | Cloud Engineer | Web3 | AI**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
