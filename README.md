@@ -4,7 +4,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🔧 I Build scalable CI/CD pipelines, cloud-native solutions, and I'm currently working a project that automates one of my hobbies, I wont tell which one. Watch out!. 
+🔧 I Build scalable CI/CD pipelines, cloud-native solutions, and I'm currently working a project that automates one of my hobbies, I wont tell the one. LOL. 
 
 #### 🛠 Technology Stack --
 - **Cloud:** AWS (EKS, EC2, S3), Azure  
