@@ -13,12 +13,15 @@
 - **Scripting & Automation:** Bash, Python, Go  
 - **Monitoring:** Prometheus, Grafana, ELK Stack
 
-#### 🔭 I’m currently working on
+#### 🔭 What you'll find here - 
+
+- 🔹 **DevOps and Cloud solutions** Cloud Infrastructure Setup & migration/ API integration Etc
 - 🔹 **Kubernetes GitOps:** Automating deployments using ArgoCD & Helm  
-- 🔹 **Portfolio Projects:** Showcasing hands-on DevOps experience
+
 
 #### 🌱 Interests
-- 🔹 **AI & Web3 DevOps:** Merging AI workflows into cloud-native apps
+- 🔹 **AI & Web3 Platforms:** Merging AI workflows into cloud-native apps
+- 🔹 **API Integrations** More integrations to simplify day-to-days
   
  
  📫 How to reach me:
